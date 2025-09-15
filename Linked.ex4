@@ -1,0 +1,17 @@
+abstract{
+    margin-left: 4cm;
+    margin-right: 4cm;
+    font-style: italic;
+    font-family: "times New roman";
+    font-size: 1pt;
+    text-indent: 1cm;
+    text-align: left;
+}
+body{
+    margin-left: 3cm;
+    margin-right 3cm;
+    font-family: "times New roman";
+    font-size: 12pt;
+    text-indent: 1cm;
+    text-align: left;
+}
